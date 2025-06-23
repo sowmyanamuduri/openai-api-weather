@@ -1,8 +1,4 @@
 flask
 requests
 azure-ai-openai
-botbuilder-core
-botbuilder-schema
-botbuilder-integration-aiohttp
-aiohttp
 gunicorn
