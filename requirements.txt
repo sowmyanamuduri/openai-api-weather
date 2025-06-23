@@ -1,4 +1,4 @@
+azure-ai-openai==1.0.0
 flask
 requests
-azure-ai-openai
 gunicorn
